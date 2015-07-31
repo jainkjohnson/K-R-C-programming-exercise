@@ -7,10 +7,4 @@ main()
 		if(c == ' '){
 			printf("\n");
 		
-		}
-		else{
-			putchar(c);
-		}
-	}
-}
 
