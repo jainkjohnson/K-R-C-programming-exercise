@@ -6,5 +6,11 @@ main()
 	while((c=getchar()) != EOF){
 		if(c == ' '){
 			printf("\n");
-		
+		}
+		else{
+			putchar(c);
+		}
+	}
+}
+
 
